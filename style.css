@@ -1,0 +1,17 @@
+body {
+    background-color:black;
+    font-family: fantasy;
+}
+#titulo{
+    color:tomato;
+}
+.texto{
+    color:white;
+}
+header{
+    background-color: blue;
+}
+main{
+    background-color: blue;
+}
+
